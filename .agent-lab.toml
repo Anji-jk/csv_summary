@@ -1,0 +1,4 @@
+# Settings Agent Lab reads for this project (see orchestrator/execution/project_config.py).
+# test_command is left out: the default is `<python> -m pytest -q`.
+test_timeout = 600
+test_example = "tests/test_csv_summary.py"
